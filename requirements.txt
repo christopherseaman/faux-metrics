@@ -1,0 +1,6 @@
+notebook
+fake_web_events
+pandas
+matplotlib
+pyarrow
+duckdb
